@@ -76,7 +76,7 @@ function SideBarForm(props) {
       show={props.shouldSidebarVisible}
       onHide={props.closeSideBar}
       placement="end"
-      backdrop="false"
+      // backdrop="false"
       style={{ overflow: "scroll" }}
     >
       <Offcanvas.Header closeButton>
