@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/HestaBitStudentApp/static/css/main.eccbd5df.chunk.css",
-    "main.js": "/HestaBitStudentApp/static/js/main.4816aabc.chunk.js",
-    "main.js.map": "/HestaBitStudentApp/static/js/main.4816aabc.chunk.js.map",
+    "main.css": "/HestaBitStudentApp/static/css/main.8694d72c.chunk.css",
+    "main.js": "/HestaBitStudentApp/static/js/main.9c36ebc4.chunk.js",
+    "main.js.map": "/HestaBitStudentApp/static/js/main.9c36ebc4.chunk.js.map",
     "runtime-main.js": "/HestaBitStudentApp/static/js/runtime-main.afa4e861.js",
     "runtime-main.js.map": "/HestaBitStudentApp/static/js/runtime-main.afa4e861.js.map",
     "static/css/2.818011ed.chunk.css": "/HestaBitStudentApp/static/css/2.818011ed.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.8e89cc81.chunk.js.map": "/HestaBitStudentApp/static/js/2.8e89cc81.chunk.js.map",
     "index.html": "/HestaBitStudentApp/index.html",
     "static/css/2.818011ed.chunk.css.map": "/HestaBitStudentApp/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.eccbd5df.chunk.css.map": "/HestaBitStudentApp/static/css/main.eccbd5df.chunk.css.map",
+    "static/css/main.8694d72c.chunk.css.map": "/HestaBitStudentApp/static/css/main.8694d72c.chunk.css.map",
     "static/js/2.8e89cc81.chunk.js.LICENSE.txt": "/HestaBitStudentApp/static/js/2.8e89cc81.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.afa4e861.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.8e89cc81.chunk.js",
-    "static/css/main.eccbd5df.chunk.css",
-    "static/js/main.4816aabc.chunk.js"
+    "static/css/main.8694d72c.chunk.css",
+    "static/js/main.9c36ebc4.chunk.js"
   ]
 }
